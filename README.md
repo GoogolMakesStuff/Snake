@@ -13,13 +13,13 @@ A classic Snake game with retro styling and modern features.
 - **Progressive difficulty** - game speeds up as you score more points
 
 ## How to Play
-
-1. Press **SPACE** to start the game
-2. Use **ARROW KEYS** to control the snake
-3. Use **WASD KEYS** to comtrol the snake too
-4. Eat the red apples to grow and increase your score
-5. Avoid hitting the walls or your own tail
-6. Try to beat your high score!
+1. Open **index.html** in the extracted folder
+2. Press **SPACE** to start the game
+3. Use **ARROW KEYS** to control the snake
+4. Use **WASD KEYS** to comtrol the snake too
+5. Eat the red apples to grow and increase your score
+6. Avoid hitting the walls or your own tail
+7. Try to beat your high score!
 
 ## Sound Effects
 
