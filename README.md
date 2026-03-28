@@ -16,7 +16,7 @@ A classic Snake game with retro styling and modern features.
 
 1. Press **SPACE** to start the game
 2. Use **ARROW KEYS** to control the snake
-3. Use **WASD KEYS* to comtrol the snake too
+3. Use **WASD KEYS** to comtrol the snake too
 4. Eat the red apples to grow and increase your score
 5. Avoid hitting the walls or your own tail
 6. Try to beat your high score!
