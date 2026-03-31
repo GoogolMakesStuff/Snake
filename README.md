@@ -1,4 +1,5 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/20e9755f-afc3-43b4-9014-94c3994b6ef4" />
+<img width="1044" height="500" alt="image" src="https://github.com/user-attachments/assets/5b107eed-df8f-40b8-99f5-f43900cf8223" />
+
 
 
 # Retro Snake Game
